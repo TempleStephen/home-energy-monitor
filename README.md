@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="architecture/banner.png" alt="AWS Serverless Home Energy Monitor Banner" width="100%">
-</p>
-
 <h1 align="center">🏡 AWS Serverless Home Energy Monitor</h1>
 
 <p align="center">
@@ -120,7 +116,6 @@ Smart Energy Device
 home-energy-monitor/
 │
 ├── architecture/
-│   ├── banner.png
 │   └── architecture-diagram.png
 │
 ├── lambda/
