@@ -148,7 +148,7 @@ GitHub:
 https://github.com/TempleStephen
 
 LinkedIn:
-(Add your LinkedIn URL here)
+https://www.linkedin.com/in/temple-stephen-74664a1b3/
 
 ---
 
