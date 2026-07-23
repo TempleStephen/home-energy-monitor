@@ -287,7 +287,8 @@ Building this project strengthened my understanding of:
 ## 👨‍💻 About Me
 
 **Temple Stephen**
-*Aspiring AWS Solutions Architect passionate about building secure, scalable, and serverless cloud solutions.*
+*Aspiring AWS Solutions Architect | Cloud Engineer
+Passionate about building secure, scalable, and serverless cloud solutions. I enjoy turning real-world problems into practical AWS projects while continuously growing my expertise in cloud architecture, automation, and DevOps practices.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-TempleStephen-181717?logo=github&logoColor=white)](https://github.com/TempleStephen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Temple%20Stephen-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/temple-stephen-74664a1b3/)
