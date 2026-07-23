@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Energy Monitor</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<h1>🏠 Home Energy Monitor</h1>
+
+<p>Powered by AWS IoT Core, Lambda, DynamoDB, CloudWatch & Amazon S3</p>
+
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>Current Power Usage</h2>
+
+<h1 id="power">620 W</h1>
+
+</div>
+
+<div class="card">
+
+<h2>Voltage</h2>
+
+<h1 id="voltage">230 V</h1>
+
+</div>
+
+<div class="card">
+
+<h2>Current</h2>
+
+<h1 id="current">2.7 A</h1>
+
+</div>
+
+<div class="card">
+
+<h2>Today's Consumption</h2>
+
+<h1 id="daily">8.6 kWh</h1>
+
+</div>
+
+<div class="card">
+
+<h2>Status</h2>
+
+<h1 id="status" class="good">NORMAL</h1>
+
+</div>
+
+</div>
+
+<section>
+
+<h2>Energy Usage Insights</h2>
+
+<ul>
+
+<li>Peak usage occurs between 6 PM and 9 PM.</li>
+
+<li>Average daily consumption: 8.4 kWh.</li>
+
+<li>No abnormal power spikes detected.</li>
+
+<li>CloudWatch alarms notify users of excessive usage.</li>
+
+<li>SNS sends email alerts when thresholds are exceeded.</li>
+
+</ul>
+
+</section>
+
+<footer>
+
+<p>Built by Temple Stephen using AWS Cloud Services</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
